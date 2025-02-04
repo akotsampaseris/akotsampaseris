@@ -1,6 +1,13 @@
-# Hey, I'm Antony [LinkedIn](https://linkedin.com/in/akotsampaseris) [Instagram](https://instagram.com/negativeentropy_)
+# Hey, I'm Antony [![image](https://github.com/user-attachments/assets/178e436b-aa0c-4289-9d2b-ca7e250f0a8a)
+](https://linkedin.com/in/akotsampaseris) [![image](https://github.com/user-attachments/assets/ac1ccb33-9826-4900-a0ae-a44e7cf10cce)
+](https://instagram.com/negativeentropy_)
 
-I've studied **Particle Physics** and I am a self-taught developer. I love building cool apps with **Python** and **React**. I am starting my open-source journey with **Rust** and a focus on **Web3**. Ask me about Physics, Programming, and Web3! ☕
+Ask me about Physics, Programming, and Web3! ☕
+
+## Who am I?
+- I've studied **Particle Physics** and I am a self-taught developer.
+- I love building cool apps with **Python** and **React**.
+- I am starting my open-source journey with **Rust** and a focus on **Web3**. 
 
 ---
 
