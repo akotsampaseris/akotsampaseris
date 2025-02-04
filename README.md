@@ -1,7 +1,6 @@
-# Hey, I'm Antony [![image](https://github.com/user-attachments/assets/178e436b-aa0c-4289-9d2b-ca7e250f0a8a)
-](https://linkedin.com/in/akotsampaseris) [![image](https://github.com/user-attachments/assets/88a3b683-0d95-486b-a263-7a314f6752a1)
-
-](https://instagram.com/negativeentropy_)
+# Hey, I'm Antony 
+[![image](https://github.com/user-attachments/assets/34a76df4-7206-46ed-bfae-ef8598efd03b)](https://linkedin.com/in/akotsampaseris) 
+[![image](https://github.com/user-attachments/assets/ad2184a3-46cb-436e-92dd-782ac827ae07)](https://instagram.com/negativeentropy_)
 
 Ask me about Physics, Programming, and Web3! ☕
 
