@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Antony 👋
 
-<!--
-**akotsampaseris/akotsampaseris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've studied **Particle Physics** and I am a self-taught developer.
+I love building cool apps with **Python** and **React**.
+I am starting my open-source journey with **Rust** and a focus on **Web3**.
 
-Here are some ideas to get you started:
+Ask me about Physics, Programming, and Web3! ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Up To
+- Contributing to **Rust-based** **open-source** projects.
+- Going deep into **zero-knowledge proof** territory.
+
+---
+
+## Let's Connect
+[LinkedIn](https://linkedin.com/in/akotsampaseris) | [Instagram](https://instagram.com/negativeentropy_)
