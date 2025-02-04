@@ -1,5 +1,6 @@
 # Hey, I'm Antony [![image](https://github.com/user-attachments/assets/178e436b-aa0c-4289-9d2b-ca7e250f0a8a)
-](https://linkedin.com/in/akotsampaseris) [![image](https://github.com/user-attachments/assets/773e09ed-e003-42f4-8e85-0127e26b83e4)
+](https://linkedin.com/in/akotsampaseris) [![image](https://github.com/user-attachments/assets/88a3b683-0d95-486b-a263-7a314f6752a1)
+
 ](https://instagram.com/negativeentropy_)
 
 Ask me about Physics, Programming, and Web3! ☕
